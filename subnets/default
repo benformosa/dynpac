@@ -1,0 +1,2 @@
+proxy = "PROXY proxy:3128"
+0.0.0.0/0
