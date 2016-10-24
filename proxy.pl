@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 #proxy.pl
-#Ben Formosa 2013
+#© Catholic Education Canberra Goulburn 2013
+#Author: Ben Formosa
 #
 #Dynamically create proxy autoconfiguration files depending on the remote host
 #expects the following files:
